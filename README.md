@@ -1,3 +1,4 @@
+A full-stack Turborepo starter with Prisma, Cloudflare, AWS EC2, S3, and Neon DB—designed for scalable app development. It sets up a robust foundation for modern TypeScript-based multi-package projects with CI/CD support.
 # Turborepo starter
 
 This is an official starter Turborepo.
